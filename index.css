@@ -1,0 +1,161 @@
+.bg-container {
+  background-color: #fba3ab;
+  background-size: cover;
+  height: 100vh;
+}
+
+.icon-name {
+  font-size: 25px;
+  color: #3c386d;
+}
+
+.icon-info {
+  font-size: 8px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.profile-border {
+  border-color: #3c386d;
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  border-width: 2px;
+  border-style: solid;
+}
+
+.profile-name {
+  font-size: 14px;
+  font-family: Roboto;
+  font-weight: bold;
+  color: #3c386d;
+}
+
+.profile-role {
+  font-size: 6px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #3c386d;
+}
+
+.v-line1 {
+  width: 2px;
+  background-color: #3c386d;
+  height: 98px;
+  position: absolute;
+  left: 50%;
+  margin-top: 4px;
+}
+
+.address {
+  font-size: 6px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #3c386d;
+}
+
+.h-line1 {
+  width: 340px;
+  background-color: #3c386d;
+  height: 2px;
+  position: absolute;
+  left: 20%;
+  margin-top: 2px;
+}
+
+.years-in-range {
+  font-size: 10px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.work-heading {
+  font-size: 6px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.work-info {
+  font-size: 6px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.skills {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-right: auto;
+}
+
+.dot {
+  width: 4px;
+  height: 4px;
+  background-color: #3c386d;
+  border-radius: 50%;
+  margin-left: 2px;
+}
+
+.years {
+  font-size: 6px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.award-heading {
+  font-size: 6px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.award-info {
+  font-size: 4px;
+  font-family: Roboto;
+  color: #3c386d;
+  font-weight: 500;
+  margin-top: 8px;
+}
+
+.h-line2 {
+  width: 340px;
+  background-color: #3c386d;
+  height: 2px;
+  position: absolute;
+  left: 20%;
+  margin-bottom: 4px;
+}
+
+.v-line2 {
+  width: 2px;
+  background-color: #3c386d;
+  height: 120px;
+  position: absolute;
+  left: 50%;
+  margin-top: 2px;
+}
+
+.icon-container {
+  background-color: #3c386d;
+  width: 50px;
+  height: 50px;
+  border-radius: 40px;
+  margin-left: 2px;
+}
+
+.icon {
+  color: #fba3ab;
+  font-size: 25px;
+}
